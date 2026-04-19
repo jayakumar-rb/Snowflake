@@ -1,0 +1,151 @@
+part_id,name,manufacturer,manufacture_date,cost
+97322,Brake Pad,Bradley Ltd,2000-01-04,
+99275,Battery,,2020-01-10,89.94
+95065,Battery,"Webster, Carr and Johnson",2001-05-25,164.76
+41726,Oil Filter,Ford-Kelly,2021-07-10,82.5
+85200,Oil Filter,Winters PLC,2007-07-30,112.76
+62424,Oil Filter,"Mcconnell, Carter and Nunez",,103.46
+74538,Oil Filter,,2018-07-15,
+18706,Air Filter,Trujillo-Morgan,2000-06-22,186.07
+55897,Oil Filter,Ray Inc,2006-02-09,95.29
+32903,Oil Filter,Miller PLC,2021-09-01,28.19
+61966,Spark Plug,Ramos-Hudson,2022-02-06,173.96
+08526,Oil Filter,Riggs Inc,2008-09-30,
+96132,Air Filter,Long-Mitchell,2013-10-19,172.52
+10419,Spark Plug,"Sweeney, Grimes and Ryan",2022-10-22,129.31
+53354,Brake Pad,"Fry, Miller and Nichols",2018-08-11,52.02
+51784,Air Filter,Torres and Sons,,
+63930,Brake Pad,Mosley-Williams,2013-02-05,125.45
+51304,Brake Pad,,2008-12-30,185.41
+41108,Battery,"Evans, Bender and Cunningham",,60.68
+66956,Battery,,2023-06-08,103.0
+85143,Air Filter,"Spencer, Kelly and Short",2013-10-08,96.01
+71627,Battery,"May, Sanchez and Smith",2011-05-26,65.96
+23038,Air Filter,Hughes-Glover,2003-10-15,
+90700,Oil Filter,Fisher-Smith,,23.3
+61121,Brake Pad,Curry-Serrano,2005-02-10,44.25
+31407,Brake Pad,Willis-Robertson,2023-12-10,185.87
+46923,Air Filter,"Ellis, Black and Gay",2019-11-09,135.25
+01583,Brake Pad,,2017-09-07,185.95
+70417,Brake Pad,,2021-07-21,159.79
+93622,Battery,,2010-10-13,26.34
+69138,Brake Pad,Rodriguez LLC,2001-10-14,90.38
+82268,Brake Pad,Johnson LLC,2005-01-10,154.33
+54279,Spark Plug,Brooks Inc,2007-02-11,67.32
+59089,Oil Filter,Simpson-Mcdonald,2020-06-28,31.47
+68502,Air Filter,Taylor-Browning,2016-04-18,167.07
+53475,Brake Pad,,2013-05-03,197.15
+45426,Oil Filter,Wells Group,2001-11-25,53.43
+37249,Spark Plug,"Butler, Hernandez and Ross",2024-08-28,138.86
+98554,Battery,Patterson-Rivera,,
+50747,Battery,Brown-Fisher,2019-09-29,
+92272,Brake Pad,Jefferson LLC,,62.17
+74261,Air Filter,Sandoval Inc,2013-11-05,
+16685,Battery,Hughes-Avila,2016-12-03,23.73
+06280,Brake Pad,"Day, Matthews and Middleton",2017-04-03,59.33
+80283,Spark Plug,Foley PLC,2014-12-05,
+71105,Air Filter,Friedman Group,2006-04-04,153.52
+09776,Brake Pad,"Heath, Fowler and Curtis",2009-08-06,47.93
+10845,Spark Plug,Ward-Ortiz,2009-09-09,98.48
+66444,Brake Pad,Carr Ltd,2002-07-31,14.41
+44943,Battery,Wyatt-Wheeler,,123.82
+30804,Oil Filter,Rodriguez LLC,,180.9
+81739,Air Filter,,2012-01-11,14.65
+33477,Battery,White Ltd,2002-02-15,164.36
+23179,Spark Plug,,2020-01-24,
+54312,Air Filter,,2022-03-04,
+45858,Brake Pad,"Navarro, Howell and Hunter",2024-04-23,
+82007,Brake Pad,Galloway Inc,2009-08-17,193.56
+30042,Battery,Smith-Andrews,2004-09-18,109.83
+50085,Oil Filter,Powell Group,2015-12-13,156.77
+09564,Air Filter,Cohen-Phillips,2005-09-30,54.81
+38739,Battery,,2015-10-31,60.74
+82173,Spark Plug,,2015-12-17,99.2
+53036,Oil Filter,Mccoy-Arias,2024-08-10,
+47861,Air Filter,Spencer-Jones,2008-08-02,149.21
+50451,Brake Pad,"Blair, Montgomery and Spencer",2006-09-15,169.86
+65682,Air Filter,,2006-04-28,189.24
+45200,Air Filter,"Coleman, Thomas and Wilson",2017-10-13,177.3
+16292,Oil Filter,Clark-Blanchard,2008-10-01,94.57
+36185,Spark Plug,Rodriguez LLC,2006-09-21,123.92
+81742,Battery,Schultz LLC,2015-09-08,57.53
+67596,Oil Filter,Bradley-Smith,2015-03-13,43.25
+79717,Oil Filter,Buchanan-Lang,,103.77
+71113,Oil Filter,"Ford, Carter and Bell",2001-01-08,67.95
+37714,Brake Pad,Poole-Johnson,2009-12-03,59.7
+32526,Oil Filter,Evans-Smith,,169.98
+37007,Brake Pad,"Ryan, Wilson and Wilkinson",2015-02-28,35.0
+09114,Brake Pad,Jackson-Middleton,2020-12-25,194.7
+82225,Spark Plug,Macdonald PLC,2010-03-02,30.51
+64430,Oil Filter,"Riley, Guerrero and Stark",2002-02-16,
+96932,Spark Plug,Brown-Rubio,,
+02518,Brake Pad,,2015-10-30,23.82
+35140,Oil Filter,Strickland and Sons,,199.91
+83267,Battery,Rios PLC,2016-10-23,170.23
+32212,Spark Plug,"Kennedy, Cowan and Rivers",2021-12-04,
+08630,Battery,Cole Inc,2005-10-16,128.09
+23914,Air Filter,White Group,,105.42
+16417,Battery,,2008-04-28,136.29
+54079,Spark Plug,"Macdonald, Jackson and Holland",2010-02-25,
+81431,Oil Filter,,2015-12-13,60.19
+35269,Air Filter,Medina Ltd,,
+23834,Oil Filter,"Allen, Wu and Thomas",2024-06-28,21.89
+86774,Spark Plug,Fisher-Davis,2017-02-18,
+21126,Spark Plug,Anderson PLC,2009-09-12,29.91
+48744,Air Filter,Brady-Moon,2017-09-01,69.52
+75067,Brake Pad,Murphy-Scott,,
+35848,Brake Pad,Perez Group,,145.88
+40373,Air Filter,"Winters, Robinson and Carter",2003-07-02,66.23
+67456,Spark Plug,"Christian, Davis and Obrien",,70.94
+92913,Air Filter,Herrera and Sons,2001-07-15,27.26
+26209,Battery,"Yates, Gilbert and Le",2008-12-03,120.43
+22140,Oil Filter,"Garner, Nelson and Smith",2018-10-30,96.93
+91248,Brake Pad,Johnson Group,2010-09-07,98.36
+34471,Oil Filter,,2020-01-14,38.75
+03299,Battery,,2013-06-22,154.09
+91782,Air Filter,Ward-Gallagher,,58.44
+83897,Battery,Black-Walters,2008-01-22,135.45
+21063,Oil Filter,"Brady, Allison and Nash",2021-07-21,12.96
+17768,Battery,Stevens-Phillips,2015-06-08,78.11
+25173,Oil Filter,Garcia LLC,2000-12-02,17.84
+19623,Brake Pad,Smith PLC,,
+12381,Air Filter,Rivas-Garrett,2015-05-24,
+08265,Battery,"Shepherd, Mosley and Woods",2003-12-02,
+07886,Brake Pad,Stokes LLC,2010-11-09,102.52
+26958,Spark Plug,"King, Obrien and Hendricks",2023-01-12,
+15241,Oil Filter,Mcmillan Ltd,2006-04-12,63.44
+96129,Air Filter,,2002-05-24,98.82
+16646,Battery,Aguilar-Porter,2012-06-17,113.58
+43738,Air Filter,"Bowman, Lowery and Hunter",2015-09-16,34.17
+53485,Air Filter,Cardenas-Morris,2015-05-10,106.91
+35854,Air Filter,Allen PLC,2009-12-14,
+47478,Battery,"Johnson, Garcia and Simpson",2004-10-15,183.86
+99602,Battery,Cruz Inc,2016-03-06,93.58
+30439,Spark Plug,Robinson-Lynch,2003-03-07,180.4
+21110,Oil Filter,Koch Ltd,2005-06-05,
+55854,Oil Filter,Smith-Nelson,2004-07-05,51.5
+81007,Brake Pad,Johnson-Martin,2014-08-18,102.85
+71416,Oil Filter,Conner-Diaz,2012-01-29,96.09
+98847,Brake Pad,Scott-Turner,2003-10-08,128.59
+65916,Battery,Payne-Rodriguez,,74.23
+28400,Brake Pad,Nguyen and Sons,2010-12-20,146.41
+08902,Brake Pad,Smith-Miller,,68.46
+49153,Spark Plug,"Morris, Jackson and Kelley",2003-04-13,89.45
+21541,Spark Plug,Phillips-Johnson,2016-03-21,122.05
+30732,Oil Filter,,2005-08-13,159.65
+75267,Battery,Powell Group,2011-04-14,186.13
+61270,Brake Pad,Becker-Mccarthy,2021-09-11,78.52
+23601,Battery,Delgado and Sons,2009-04-16,153.28
+95602,Oil Filter,Greene Ltd,,72.0
+41433,Brake Pad,"Colon, Harris and Nelson",2021-09-18,15.87
+73374,Air Filter,,2008-12-31,166.04
+83882,Spark Plug,,,83.0
+37959,Oil Filter,Baker PLC,2017-02-01,175.08
+01264,Battery,,,155.27
+16301,Oil Filter,Ross-Blake,2019-03-05,32.29
+60584,Brake Pad,"Sanchez, Tate and Newman",2005-03-22,187.26
+93672,Oil Filter,Campbell and Sons,2017-04-17,107.37
+26018,Oil Filter,Hall LLC,2015-11-08,
+96530,Battery,"Hughes, Cruz and Phillips",2015-08-21,78.18
+13863,Oil Filter,Lee Ltd,2010-07-22,95.92
+67087,Battery,"Davis, Oliver and Sullivan",2001-12-19,198.74
